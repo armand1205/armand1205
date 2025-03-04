@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Armand Munteanu
-- 👀 I’m interested in Web Dev and Full Stack Dev
+- 👀 I’m interested in Web Development and Full Stack Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project. I want to gain experience working on various projects
 - 📫 Email: munteanu.armand1@gmail.com
